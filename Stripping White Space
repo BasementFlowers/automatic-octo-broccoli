@@ -1,0 +1,10 @@
+message = famous_person = ' Lucy Smith '
+print("\tLucy")  
+print("\tSmith")
+famous_person.lstrip()
+' Lucy Smith'
+famous_person.rstrip()
+'Lucy Smith '
+famous_person.strip()
+'Lucy Smith'
+print(message)
